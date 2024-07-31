@@ -7,8 +7,8 @@ Survival analysis methods provide a powerful tool when conducting an analysis of
 
 The purpose of our study was to investigate the key variables that influence the distribution of survival time in patients with advanced lung cancer. In particular, we hoped to answer the following core research question:
 
-- • What factors may significantly influence the distribution of survival time?
-- • What is the distribution of survival time (T)?
-- • For important parameters, How to find point estimates and interval estimates.
-- 
+- What factors may significantly influence the distribution of survival time?
+- What is the distribution of survival time (T)?
+- For important parameters, How to find point estimates and interval estimates.
+  
 The following report will be structured as follows. In section 2, we will briefly describe the lung data set. In section 3, we will describe the main methods that appear in this article. In section 4 to section 6 we will present the main results of the research. Finally, in sections 7 and 8, we will describe the conclusion and discussion.
